@@ -1,37 +1,7 @@
-## Welcome to吴蒙蔚 Pages
+## VernalsWind Daily
 
-You can use the [editor on GitHub](https://github.com/VernalsWind/daily.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/VernalsWind/daily.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### 背单词
+- deem
+- demen was a fateful word. Closely related to doom, this precursor of deem meant "to act as a judge" or "to sentence, condemn, or decree." These meanings passed to deem itself, but we haven't used deem to mean "to legally condemn" since the early 17th century. Though deem is still frequently used in contexts pertaining to the law, today it means "to judge" only in a broader sense of "to decide (something specified) after inquiry and deliberation," as in "the act was deemed unlawful" or "the defendant is deemed to have agreed to the contract." Outside of the law, deem usually means simply "to consider." Some usage commentators consider deem pretentious, but its use is well established in both literary and journalistic contexts. We deem it perfectly acceptable
+### Linux
+### vim
